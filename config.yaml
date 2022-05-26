@@ -1,4 +1,4 @@
-baseURL: https://examplesite.com
+baseURL: https://wetrust.netlify.app
 title: WETRUST
 theme: omega-hugo
 googleAnalytics: ''
@@ -30,7 +30,7 @@ menu:
       weight: 5
 params:
   author: Themefisher
-  contact_info:  16 Street No. 16<br>Ranaji Enclave Near Chetna Model Public School, <br>Najafgarh, ND-110043
+  contact_info:  Plot No. 16 Street No. 16<br>Ranaji Enclave Near Chetna Model Public School, <br>Najafgarh, ND-110043
   cookies:
     enable: yes
     expire_days: 2
@@ -38,7 +38,7 @@ params:
   logo: images/logo.png
   logo_width: 120px
   map:
-    enable: no
+    enable: No
     gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyCtgRLRLMND7j9HDSd2zmk-9GYApdmSRFo
     map_center_lat: '28.50000'
     map_center_lng: '77.16000'
