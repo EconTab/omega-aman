@@ -38,7 +38,7 @@ params:
   logo: images/logo.png
   logo_width: 120px
   map:
-    enable: yes
+    enable: no
     gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyCtgRLRLMND7j9HDSd2zmk-9GYApdmSRFo
     map_center_lat: '28.50000'
     map_center_lng: '77.16000'
