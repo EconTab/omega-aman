@@ -1,0 +1,76 @@
+#################### Banner #####################
+banner:
+  enable : true
+  title : "WETRUST Engineer Services"
+  content : "Where quality is the priority <br> ISO 9001-2015 certified company"
+  image : "images/hero-image/blue-rev.jpeg"
+  button:
+    enable : true
+    label : "WHAT WE DO"
+    link : "#products"
+
+#################### Mission #####################
+mission:
+  enable : true
+  title : "Our Anthem"
+  section : "OUR ANTHEM"
+  content : "WETRUST Engineering Services located in Najafgarh, New Delhi. We focus on installation of medical equipment. Our product range includes quality medical instruments. We have developed an expertise in the installation of machinery and equipment for MRI Scan, CT Scan.<br><br> Additionally, we provide after sales service and assist in the maintenance of third party equipment. Such services include chiller maintenance, shield cooler repairing, helium filling etc. . We also supply supplementary materials."
+  video_thumb: "images/video-thumb.jpeg"
+  video_id: "ResipmZmpDU"
+
+
+#################### Vision #####################
+vision:
+  enable : true
+  section : "STEPS"
+  vision_item:
+  - title : "1. EQUIPMENT SUBMISSION REVIEW<br>2. ROUGH SITE REVIEW <br>3. COORDINATION OF EQUIPMENT DELIVERY"
+    image : "images/vision/vision-01.jpg"
+    content : "Quality is the priority. <br>Aman Founder"
+    
+  - title : "4. INSTALLATION QUALITY REVIEW<br>5. PROFESSIONAL PROJECT MANAGEMENT<br>6. SITE PREPARATION "
+    image : "images/vision/vision-02.jpg"
+    
+  - title : "7. PRE-INSTALLATION CONSULTATION<br>8. FINAL INSPECTION"
+    image : "images/vision/vision-03.jpg"
+    
+    
+    
+#################### product ####################
+product:
+  enable : true
+  section : "Products"
+  title : "Some Of Our Best Products"
+  content : "See the innovation that has come through the Rio way. As an advancement company, the goal is to continuously find areas to help business push forward. Below you can find the first product available to help you do so."
+  product_item:
+  - title : "History"
+    image : "images/product/product-03.jpg"
+    content : "8 years ago, Aman started this company with the hope of helping health sector. "
+    project_url : "#"
+    
+  - title : "Services"
+    image : "images/product/product-02.jpg"
+    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    project_url : "#"
+    
+  - title : "Our legacy"
+    image : "images/product/product-03.jpg"
+    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    project_url : "#"
+
+
+###################### Contact ####################
+contact:
+  enable : true
+  section : "THINK TANK"
+  title : "about founder"
+  image : "images/map-bg.jpg"
+  content : "The proprietor of wetrust engineers services Mr. Aman has hands on experience and excellent exposure in the Healthcare industry."
+
+  
+################### call to action #################
+call_to_action:
+  enable : true
+  title : "Join the WETRUST family."
+  button_label : "Apply Now"
+  button_link : "career"
