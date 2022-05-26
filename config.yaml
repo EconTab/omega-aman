@@ -34,14 +34,14 @@ params:
   cookies:
     enable: yes
     expire_days: 2
-  description: This is meta description
+  description: wetrust iso 9001-2015
   logo: images/logo.png
   logo_width: 120px
   map:
     enable: yes
     gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyCtgRLRLMND7j9HDSd2zmk-9GYApdmSRFo
-    map_center_lat: '28.592'
-    map_center_lng: '77.162'
+    map_center_lat: '28.50000'
+    map_center_lng: '77.16000'
     map_marker: images/map-marker.png
     map_position_lat: '28.592'
     map_position_lng: '77.162'
