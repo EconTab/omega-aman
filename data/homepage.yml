@@ -14,7 +14,7 @@ mission:
   enable : true
   title : "Our Anthem"
   section : "OUR ANTHEM"
-  content : "WETRUST Engineering Services located in Najafgarh, New Delhi. We focus on installation of medical equipment. Our product range includes quality medical instruments. We have developed an expertise in the installation of machinery and equipment for MRI Scan, CT Scan.<br><br> Additionally, we provide after sales service and assist in the maintenance of third party equipment. Such services include chiller maintenance, shield cooler repairing, helium filling etc. . We also supply supplementary materials."
+  content : "WETRUST Engineering Services located in Najafgarh, New Delhi. We focus on installation of medical equipment. Our product range includes quality medical instruments. We have developed an expertise in the installation of machinery and equipment for MRI Scan, CT Scan. Additionally, we provide after sales service and assist in the maintenance of third party equipment. Such services include chiller maintenance, shield cooler repairing, helium filling etc. . We also supply supplementary materials."
   video_thumb: "images/video-thumb.jpeg"
   video_id: "ResipmZmpDU"
 
@@ -24,14 +24,17 @@ vision:
   enable : true
   section : "STEPS"
   vision_item:
-  - title : "1. EQUIPMENT SUBMISSION REVIEW<br>2. ROUGH SITE REVIEW <br>3. COORDINATION OF EQUIPMENT DELIVERY"
+  - title : "1. EQUIPMENT SUBMISSION REVIEW<br> 2. ROUGH SITE REVIEW "
     image : "images/vision/vision-01.jpg"
     
-  - title : "4. INSTALLATION QUALITY REVIEW<br>5. PROFESSIONAL PROJECT MANAGEMENT<br>6. SITE PREPARATION "
+  - title : "3. COORDINATION OF EQUIPMENT DELIVERY <br>4. INSTALLATION QUALITY REVIEW"
     image : "images/vision/vision-02.jpg"
     
-  - title : "7. PRE-INSTALLATION CONSULTATION<br>8. FINAL INSPECTION"
+  - title : "5. PROFESSIONAL PROJECT MANAGEMENT<br> 6. SITE PREPARATION "
     image : "images/vision/vision-03.jpg"
+  
+  - title : "7. PRE-INSTALLATION CONSULTATION<br>8. FINAL INSPECTION "
+    image : "images/vision/vision-01.jpg"  
     content : "Quality is the priority. <br>Aman Founder"
     
     
