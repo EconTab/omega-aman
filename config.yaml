@@ -39,7 +39,7 @@ params:
   logo_width: 120px
   map:
     enable: No
-    gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyCtgRLRLMND7j9HDSd2zmk-9GYApdmSRFo
+    gmap_api: https://maps.googleapis.com/maps/api/js?key=*****
     map_center_lat: '28.50000'
     map_center_lng: '77.16000'
     map_marker: images/map-marker.png
